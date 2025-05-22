@@ -4,10 +4,13 @@ EXPANSIÓN ESTRATÉGICA DE LABORATORIOS PARA INVESTIGACIÓN Y VACUNACIÓN DE COV
 <p align="center">
   <img src="https://github.com/user-attachments/assets/80f7219a-e02b-44f4-8486-2c5d84810b32" alt="Imagen del proyecto BIOGENESYS" width="300"/>
 </p>
-INTRODUCCIÓN
+
+## INTRODUCCIÓN
+
 Este proyecto tiene como propósito identificar ubicaciones óptimas para establecer nuevos centros de investigación y distribución de vacunas. A través de este análisis, viendo en detalle datos epidemiológicos, tasas de vacunación, entre otros se busca proporcionar una base sólida para la toma de decisiones. 
 
-DESARROLLO DEL PROYECTO
+## DESARROLLO DEL PROYECTO
+
 - Se realizó la carga y transformación de los datos en VISUAL ESTUDIO CODE, utilizando lenguaje de programación PYTHON.
 - Limpieza de los datos.
 - Analisis Exploratorio (EDA)
@@ -22,7 +25,7 @@ DESARROLLO DEL PROYECTO
   <img src="https://github.com/user-attachments/assets/96706d6f-41b7-4103-a717-48b37517b00d" alt="Imagen BIOGENESYS" width="300"/>
 </p>
 
-DASBOARD INTERACTIVO
+## DASBOARD INTERACTIVO
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a460fe0-7e00-40f5-85fc-2c24f1f7bc0f" alt="Imagen BIOGENESYS" width="300"/>
@@ -38,7 +41,8 @@ El mapa nos ayuda a visualizar la propagación del COVID-19 en los países anali
   <img src="https://github.com/user-attachments/assets/fbf67457-7669-4a8e-ac3b-f5f832396b36" alt="Imagen 3" width="250"/>
   <img src="https://github.com/user-attachments/assets/37840b26-4294-4ec1-9a09-271d477bb9c5" alt="Imagen 4" width="250"/>
 </p>
-CONCLUSIONES Y RECOMENDACIONES
+
+## CONCLUSIONES Y RECOMENDACIONES
 
 A lo largo del análisis, se han explorado múltiples indicadores epidemiológicos, sanitarios y demográficos para comprender la evolución del COVID-19 en Argentina, Chile, México, Colombia, Perú y Brasil. 
  Brasil lidera en número absoluto de casos, pero cuando ajustamos por población, Argentina y Chile presentan las tasas más altas de contagios. Perú destaca como el país con mayor tasa de mortalidad, reflejando el impacto desigual de la pandemia en dicho país. 
